@@ -1,0 +1,45 @@
+:root {
+    --red: #e53167;
+    --blue: #3480e3;
+    --background: #E4E4E4;
+    --p-color: #657783;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: var(--background);
+}
+
+h1 {
+    color: var(--blue);
+    font-size: 65px;
+    font-family: "Metropolis-Thin";
+    margin-top: 323px;
+}
+
+h1 b {
+    font-family: "Metropolis-Bold";
+}
+
+p {
+    font-family: "Metropolis-Light";
+    font-size: 17px;
+    line-height: 27px;
+    color: var(--p-color);
+}
+
+a {
+    text-decoration: none;
+    font-family: "Metropolis-Medium";
+    font-size: 17px;
+    color: var(--blue);
+}
+
+a.btn {
+    padding: 16px 40px;
+    background-color: var(--blue);
+    color: white;
+    border-radius: 100px;
+}

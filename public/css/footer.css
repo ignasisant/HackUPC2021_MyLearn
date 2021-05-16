@@ -1,0 +1,14 @@
+footer {
+    height: 54px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer p:first-child {
+    margin-left: 140px;
+}
+
+footer p:last-child {
+    margin-right: 140px;
+}

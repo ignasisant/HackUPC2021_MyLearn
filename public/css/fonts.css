@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Metropolis-Thin;
+    src: url(../font/Metropolis-Thin.otf);
+}
+
+@font-face {
+    font-family: Metropolis-Regular;
+    src: url(../font/Metropolis-Regular.otf);
+}
+
+@font-face {
+    font-family: Metropolis-Medium;
+    src: url(../font/Metropolis-Medium.otf);
+}
+
+@font-face {
+    font-family: Metropolis-Bold;
+    src: url(../font/Metropolis-Bold.otf);
+}
+
+@font-face {
+    font-family: Metropolis-Light;
+    src: url(../font/Metropolis-Light.otf);
+}

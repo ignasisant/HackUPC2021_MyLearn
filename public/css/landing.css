@@ -1,0 +1,38 @@
+main {
+    margin-left: 278px;
+    width: calc(100vw - 278px);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main-text-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-text-section h1 {
+    margin-top: 323px;
+    margin-bottom: 0px;
+}
+
+.main-text-section div.btn,
+.main-text-section > p {
+    margin-top: 40px;
+}
+
+.play-store {
+    margin-top: 71px;
+}
+
+.play-store p {
+    margin: 0px;
+}
+
+.play-store img {
+    margin-left: 58px;
+}
+
+main > img {
+    margin-right: 228px;
+}
